@@ -6,7 +6,7 @@ A simple web application built with Laravel 8 for performing CRUD operations alo
 
 If you click the delete button, this is what the sure warning will look like.
 
-![image](https://github.com/davarezza/laravel8_crud/assets/132239881/85e98044-b1be-42d7-9097-496457d50a1c)
+![image](https://github.com/davarezza/laravel8_crud/assets/132239881/82f90eb1-abce-4d73-9e0d-b902c65edfea)
 
 Add new data layout.
 
